@@ -8,7 +8,7 @@ public class SampleClassTest
 	public void createContact()
 	{
 		System.out.println("execute createContact");
-		
+		System.out.println("execute modifyContact");
 		System.out.println("********url from cmd line*********"+System.getProperty("url"));
 		System.out.println("********browser from eclipse*********"+System.getProperty("browser"));
 	}
